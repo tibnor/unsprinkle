@@ -2,7 +2,7 @@ const data = [
   {
     id: 'a',
     src: '/images/vincent-van-zalinge-bird.jpg',
-    alt: 'A tiny shrewd turquoise-and-amber bird',
+    alt: 'A tiny colorful bird',
     tags: [
       'bird',
       'blurred background',
